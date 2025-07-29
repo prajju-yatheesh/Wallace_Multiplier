@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>4x4 Wallace Multiplier - Verilog</title>
+  
   <style>
     body {
       font-family: Arial, sans-serif;
