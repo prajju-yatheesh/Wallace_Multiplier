@@ -53,7 +53,7 @@ a = 1101, b = 1100, Output = 10011100
       <li>Upgrade to 8x8 Wallace multiplier</li>
       <li>Add pipelining for performance boost</li>
     
-    </ul>
+    
   </div>
 
 
