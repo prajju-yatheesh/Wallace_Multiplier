@@ -25,7 +25,7 @@
     <ul>
       <li><strong>Platform:</strong> <a href="https://www.edaplayground.com" target="_blank">EDA Playground</a></li>
       <li><strong>Simulator:</strong> Aldec Riviera Pro 2023.04</li>
-      <li><strong>Language:</strong> Verilog (IEEE 1364-2005)</li>
+      <li><strong>Language:</strong> System Verilog </li>
     </ul>
   </div>
 
@@ -52,7 +52,7 @@ a = 1101, b = 1100, Output = 10011100
     <ul>
       <li>Upgrade to 8x8 Wallace multiplier</li>
       <li>Add pipelining for performance boost</li>
-      <li>Implement in SystemVerilog with assertions and coverage</li>
+    
     </ul>
   </div>
 
